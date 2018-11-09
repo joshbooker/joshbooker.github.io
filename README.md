@@ -1,2 +1,2 @@
 # joshbooker.github.io
-![alt tet](demo.gif)
+![alt demo](https://joshbooker.github.io/DEMO.gif)
