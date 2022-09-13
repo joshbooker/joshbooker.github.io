@@ -1,0 +1,5 @@
+{
+    "@context": "https://identity.foundation/.well-known/contexts/did-configuration-v0.0.jsonld",
+    "linked_dids": [
+      "EiALaq_U-7EHDiAB3wyzqGINaM6bX4WHHRZ2DpKSWClTHg"]
+  }
