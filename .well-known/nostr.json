@@ -1,7 +1,7 @@
 {
   "names": {
     "_": "0f6e0e100b881a00f5a6dcbcbcffd9dc05c189815b25114d796a94a06a510f8a",
-    "joshuaabooker": "0f6e0e100b881a00f5a6dcbcbcffd9dc05c189815b25114d796a94a06a510f8a"
+    "joshuabooker": "0f6e0e100b881a00f5a6dcbcbcffd9dc05c189815b25114d796a94a06a510f8a"
   },
   "relays": {
     "0f6e0e100b881a00f5a6dcbcbcffd9dc05c189815b25114d796a94a06a510f8a": [ "wss://relay.damus.io", "wss://nostr-2.zebedee.cloud" ]
